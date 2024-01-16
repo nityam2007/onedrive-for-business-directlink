@@ -8,7 +8,7 @@ OneDrive for Business Converting a file sharing link to a direct link only appli
 - `python main.py`
 
 ## binary file
-from [release](https://github.com/JingqingLin/OneDrive-directlink/releases) Download binaries directly
+from [release]([https://github.com/JingqingLin/OneDrive-directlink/releases](https://github.com/nityam2007/onedrive-for-business-directlink/releases)) Download binaries directly
 <br><br>
 - Some links that are not in the correct format may not be judged correctly.
 
